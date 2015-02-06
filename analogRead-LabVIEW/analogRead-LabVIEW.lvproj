@@ -47,7 +47,6 @@
             <Item Name="General Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/General Error Handler.vi"/>
             <Item Name="Simple Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Simple Error Handler.vi"/>
          </Item>
-         <Item Name="visarc" Type="Document" URL="../../../../../../Program Files/National Instruments/LabVIEW 8.5/resource/visarc"/>
       </Item>
       <Item Name="Build Specifications" Type="Build"/>
    </Item>
